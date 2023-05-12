@@ -1,95 +1,62 @@
- <div>
-    <a target='_blank' href="https://www.linkedin.com/in/eduardo-almada-3a9aa1186/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/edualmada_">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-    <a href = "mailto:edu.almada26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-</div>
+# Project Title
 
-## Hi, I'm Eduardo Almada 
+Simple overview of use/purpose.
 
-Hey, welcome to my GitHub profile! 
-Take a coffee and let me explain who I am. ☕
+## Description
 
-## Detailed Information
+An in-depth paragraph about your project and overview of use.
 
-* **Name**: Eduardo Almada
-* **Age**: 22
-* **Living in**: Juiz de fora - MG, Brazil
-* **University**: I am currently in college, in the sixth period, studying Information Systems.
-* **Stack**: HTML || CSS || Javascript || Typescript || Ubuntu
+## Getting Started
 
-<div style="display: inline_block"><br>
-  <b>» Programming Languages «</b>
-  <br>
-  <br>
-  <a href="https://css3.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  </a>
-   <a href="https://sass.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  </a>
-   <a href="https://react.io/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  </a>
-   <a href="https://typescript.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-    <a href="https://javascript.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-</div>
+### Dependencies
 
-<div style="display: inline_block"><br>
-  <b>» Tools «</b>
-  <br>
-  <br>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://hub.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  </a>
- <a>
-  <a href="https://confluence.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/>
- </a>
- <a href="https://jira.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
- </a>
-</div>
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-<div style="display: inline_block"><br>
-  <b>» Database «</b>
-  <br>
-  <br>
-  <a href="https://mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  </a>
-</div>
+### Installing
 
-## Curiosities about me
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-* On my free time, I like to play video games, code, draw and collect Pokemon TCG.
-* I had a "sensei" which teach a lot about programming. He was the kick-off that put me in the job market. Nowadays I study to be as good as him.
-* I had a folder where I kept my drawings that I took everywhere.
+### Executing program
 
-<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" /> 
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-##
+## Help
 
-<div align="center">
-  <a href="https://github.com/almadaedu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almadaedu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almadaedu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
 
+## Authors
 
+Contributors names and contact info
 
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
 
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
